@@ -12,4 +12,4 @@ This project features a comprehensive network topology designed in **Cisco Packe
 ![Network Topology](topology.png)
 
 ## Files
-- `final_project.pkt`: The source lab file.
+- `Enterprise_Network_OSPF_ACL.pkt`: The source lab file (Cisco Packet Tracer).
